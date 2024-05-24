@@ -1,6 +1,7 @@
 Project Name: Priority Queue with Country Data
 
 Description: This C++ code implements a priority queue data structure using a min-heap and demonstrates its application with country data. The program can sort countries by population and area using priority queues.
+
 The Requirements & Deliverables are listed in the pdf. 
 
 Key Features:
@@ -18,15 +19,16 @@ How to Use:
 2. Clone or download the repository.
 3. Compile and run the code. You will need a C++ compiler that supports C++11 features (e.g., g++).
    Bash
-  g++ -o priority_queue priority_queue.cpp
-  ./priority_queue
-
+   g++ -o priority_queue priority_queue.cpp
+   ./priority_queue
 
 Output:
 The program will print the countries sorted by population (highest to lowest) and then sorted by area (largest to smallest).
 Example Output: Further Output are showcased in the pdf.
+
 Sorting by Population:
 Country Number: 2, Name: China, Population: 1444000000, Area: 9596961
+
 Country Number: 1, Name: India, Population: 1400000000, Area: 3287263
 
 Sorting by Area:
